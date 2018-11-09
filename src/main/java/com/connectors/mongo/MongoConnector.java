@@ -39,7 +39,7 @@ public class MongoConnector {
 		for (String hostNow : hostList) {
 			serverAddresses.add(new ServerAddress(hostNow));
 		}
-		System.out.println("este test");
+		System.out.println("just text");
 		return serverAddresses;
 	
 	}

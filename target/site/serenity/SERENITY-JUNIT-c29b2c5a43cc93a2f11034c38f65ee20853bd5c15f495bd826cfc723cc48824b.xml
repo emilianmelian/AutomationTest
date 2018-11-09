@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.tests.BookItemAlreadyBookedTest" skipped="0" tests="1" time="6.57" timestamp="2018-08-221 02:25:54"><testcase classname="com.tests.BookItemAlreadyBookedTest" name="Book item already booked test"><error type="java.lang.NullPointerException"/><system-err>null
+com.steps.frontend.LoginSteps.login(LoginSteps.java:20)
+com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:17)
+com.tests.BookItemAlreadyBookedTest.bookItemAlreadyBookedTest(BookItemAlreadyBookedTest.java:45)
+</system-err></testcase></testsuite>

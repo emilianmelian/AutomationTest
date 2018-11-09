@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.tests.BookItemsFromSameCategoryTest" skipped="0" tests="1" time="6.82" timestamp="2018-08-221 01:49:23"><testcase classname="com.tests.BookItemsFromSameCategoryTest" name="Book items from same category test"><error type="java.lang.NullPointerException"/><system-err>null
+com.steps.frontend.LoginSteps.login(LoginSteps.java:20)
+com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:17)
+com.tests.BookItemsFromSameCategoryTest.bookItemsFromSameCategoryTest(BookItemsFromSameCategoryTest.java:48)
+</system-err></testcase></testsuite>

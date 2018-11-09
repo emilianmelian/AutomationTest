@@ -1,0 +1,37 @@
+<acceptance-test-run title="Book items from same category test" name="bookItemsFromSameCategoryTest" steps="5" successful="1" failures="0" errors="1" skipped="3" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="6820" timestamp="2018-08-09T13:49:23.351+03:00" session-id="078379ea434c7381c01c50efe289b088">
+  <user-story id="com.tests.BookItemsFromSameCategoryTest" name="Book items from same category test" path="com.tests"/>
+  <tags>
+    <tag name="Book items from same category test" type="story"/>
+  </tags>
+  <test-group name="Login" result="ERROR">
+    <screenshots>
+      <screenshot image="7aa336e0b49968db3b26cd4fd045b73a.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="979">
+      <screenshots>
+        <screenshot image="4d225da39080946241f998a7eefd184e.png"/>
+        <screenshot image="c8791f3c2de0536e6766a89032876b23.png"/>
+      </screenshots>
+      <description>Click login</description>
+    </test-step>
+    <test-step result="ERROR" duration="543">
+      <screenshots>
+        <screenshot image="8a009cc7042ce71912aeb12aa4d553ba.png"/>
+        <screenshot image="636983bddb3368acdcca889f376be9f6.png" source="pagesource2266555325637816439.html.txt"/>
+      </screenshots>
+      <description>Login</description>
+      <error>java.lang.NullPointerException</error>
+      <exception>java.lang.NullPointerException:null
+[com.steps.frontend.LoginSteps.login(LoginSteps.java:20), com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:17), com.tests.BookItemsFromSameCategoryTest.bookItemsFromSameCategoryTest(BookItemsFromSameCategoryTest.java:48)]</exception>
+    </test-step>
+  </test-group>
+  <test-step result="SKIPPED" duration="1">
+    <description>Book all items from category</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="0">
+    <description>Go to my bookings</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Validate booked items</description>
+  </test-step>
+</acceptance-test-run>

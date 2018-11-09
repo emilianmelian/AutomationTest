@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.usUserRegistration.CheckUserRegistrationOnAdmin
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 52.869 sec <<< FAILURE! - in com.tests.usUserRegistration.CheckUserRegistrationOnAdmin
+checkUserRegistrationOnAdmin(com.tests.usUserRegistration.CheckUserRegistrationOnAdmin)  Time elapsed: 51.295 sec  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBeVisibleException: 
+Timed out after 5 seconds waiting for Proxy element for: CustomerListPage.clickOnEdit to be displayed
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'
+Driver info: driver.version: unknown
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'
+Driver info: driver.version: unknown
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'
+Driver info: driver.version: unknown
+	at com.tests.usUserRegistration.CheckUserRegistrationOnAdmin.checkUserRegistrationOnAdmin(CheckUserRegistrationOnAdmin.java:57)
+

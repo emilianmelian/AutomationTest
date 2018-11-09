@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.ReturnMultipleItemsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.742 sec <<< FAILURE! - in com.tests.ReturnMultipleItemsTest
+returnMultipleItemsTest(com.tests.ReturnMultipleItemsTest)  Time elapsed: 1.807 sec  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at com.tests.ReturnMultipleItemsTest.setUp(ReturnMultipleItemsTest.java:42)
+

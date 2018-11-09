@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.BookItemAlreadyBookedTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.029 sec <<< FAILURE! - in com.tests.BookItemAlreadyBookedTest
+bookItemAlreadyBookedTest(com.tests.BookItemAlreadyBookedTest)  Time elapsed: 6.609 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.tests.BookItemAlreadyBookedTest.bookItemAlreadyBookedTest(BookItemAlreadyBookedTest.java:45)
+

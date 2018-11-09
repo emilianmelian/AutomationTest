@@ -1,0 +1,8 @@
+com/tests/ReturnMultipleItemsTest.class
+com/tests/ReturnItemTest.class
+com/tests/BookItemsFromSameCategoryTest.class
+com/tests/BookItemsFromDifferentCategoriesTest.class
+com/tests/BookReturnedItemTest.class
+com/tests/BaseTest.class
+com/tests/BookItemAlreadyBookedTest.class
+com/tests/BookItemTest.class

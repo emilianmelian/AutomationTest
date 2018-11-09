@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.tests.BookItemTest" skipped="0" tests="1" time="8.78" timestamp="2018-08-222 11:52:47"><testcase classname="com.tests.BookItemTest" name="Book item test"><error type="java.lang.NullPointerException"/><system-err>null
+com.steps.frontend.LoginSteps.login(LoginSteps.java:20)
+com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:17)
+com.tests.BookItemTest.bookItemTest(BookItemTest.java:41)
+</system-err></testcase></testsuite>

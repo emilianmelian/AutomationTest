@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.ReturnItemTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.868 sec <<< FAILURE! - in com.tests.ReturnItemTest
+returnItemTest(com.tests.ReturnItemTest)  Time elapsed: 1.503 sec  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at com.tests.ReturnItemTest.setUp(ReturnItemTest.java:38)
+

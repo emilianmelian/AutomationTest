@@ -1,0 +1,959 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+        <script>
+    var BASE_URL = 'http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/b79ebff22add4163d642577c5fde7b0aee1b915a51baa4e54c54f87710e40333/';
+    var FORM_KEY = 'RfmliqEMF0b1eel1';
+    var require = {
+        "baseUrl": "http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US"
+    };
+</script>
+        <meta charset="utf-8" />
+<meta name="robots" content="NOINDEX,NOFOLLOW" />
+<meta name="viewport" content="width=1024" />
+<meta name="format-detection" content="telephone=no" />
+<title>RiApYKoT Test aNrwBsOM / Customers / Customers / Magento Admin</title>
+<link rel="stylesheet" type="text/css" media="all" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/extjs/resources/css/ext-all.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/extjs/resources/css/ytheme-magento.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jstree/themes/default/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/css/styles-old.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/css/styles.css" />
+<link rel="icon" type="image/x-icon" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Theme/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Theme/favicon.ico" />
+<script type="text/javascript" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/requirejs/require.js"></script>
+<script type="text/javascript" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/requirejs-config.js"></script>
+<script type="text/javascript" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Customer/js/bootstrap/customer-post-action.js"></script>
+            <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="js/theme" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/js/theme.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/bootstrap" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/adminhtml/globals" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/adminhtml/globals.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Catalog/catalog/product" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Catalog/catalog/product.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Customer/edit/post-wrapper" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Customer/edit/post-wrapper.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/translate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.cookie" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/smart-keyboard-handler" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/smart-keyboard-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/ie-class-fixer" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/ie-class-fixer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.tabs" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery.tabs.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/requirejs/domReady.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/main" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/apply/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/notification" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/notification.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bootstrap" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/mage" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/mage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/confirm" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/confirm.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dataPost" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/dataPost.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/underscore.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/template" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/knockoutjs/knockout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-es5" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/knockoutjs/knockout-es5.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/modal" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/modal.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-migrate" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery-migrate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery-ui-1.9.2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-storageapi" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery.storageapi.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/apply/scripts" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/apply/scripts.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/engine" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/engine.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bootstrap" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/observable_array" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/observable_array.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/extender/bound-nodes" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/extender/bound-nodes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/requirejs/text.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/key-codes" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/key-codes.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-repeat" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/knockoutjs/knockout-repeat.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="knockoutjs/knockout-fast-foreach" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/knockoutjs/knockout-fast-foreach.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/wrapper" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/wrapper.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/events" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/events.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="es6-collections" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/es6-collections.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/observable_source" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/observable_source.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/renderer" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/renderer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-logger" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/resizable" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/resizable.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/i18n" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/i18n.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/scope" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/scope.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/range" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/range.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/mage-init" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/mage-init.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/keyboard" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/keyboard.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/optgroup" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/optgroup.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/after-render" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/after-render.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/autoselect" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/autoselect.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/datepicker" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/datepicker.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/outer_click" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/outer_click.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/fadeVisible" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/fadeVisible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/collapsible" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/staticChecked" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/staticChecked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/simple-checked" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/simple-checked.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/bind-html" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/bind-html.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/bindings/tooltip" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/bindings/tooltip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/class" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/class.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/storage/local" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/storage/local.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/async" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/async.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/registry/registry" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/registry/registry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/main" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/main.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/calendar" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/calendar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/knockout/template/loader" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/knockout/template/loader.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry-factory" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry-factory.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/console-output-handler" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/console-output-handler.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/formatter" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/formatter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/message-pool" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/message-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/levels-pool" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/levels-pool.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/logger-utils" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/logger-utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery-ui-timepicker-addon" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery-ui-timepicker-addon.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="moment" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/moment.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/dom-observer" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/dom-observer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/view/utils/bindings" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/view/utils/bindings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/arrays" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/arrays.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/compare" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/compare.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/misc" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/misc.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/objects" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/objects.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/strings" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/strings.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/utils/template" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/utils/template.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/logger/entry" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/logger/entry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="FormData" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/FormData.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="MutationObserver" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/MutationObserver.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/loader_old" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/loader_old.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dropdown_old" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/dropdown_old.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_AdminNotification/toolbar_entry" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_AdminNotification/toolbar_entry.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/suggest" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/suggest.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/floating-header" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/floating-header.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/button" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/button.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/popup-window" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/popup-window.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/app" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/app.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/backend/menu" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/backend/menu.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/renderer/types" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/types.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/core/renderer/layout" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/core/renderer/layout.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/grid/provider" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/provider.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/provider" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/provider.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/requirejs/resolver" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/requirejs/resolver.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/modal/alert" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/modal/alert.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/element/element" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/element.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/client" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/client.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/element/links" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/element/links.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/grid/data-storage" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/data-storage.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/core/collection" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/core/collection.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_AdminNotification/js/grid/listing" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/listing.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_AdminNotification/js/grid/columns/message" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_AdminNotification/js/grid/columns/message.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/tab_group" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/tab_group.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/form" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/form.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/area" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/area.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/html" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/html.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/fieldset" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/fieldset.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/website" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/website.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/abstract" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/abstract.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/group" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/group.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/select" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/select.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/single-checkbox" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/single-checkbox.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/date" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/date.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/collection" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/collection.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/grid/listing" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/listing.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/spinner" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/spinner.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/grid/columns/column" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/columns/column.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/collapsible" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/collapsible.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/validation/validator" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/validation/validator.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/validation" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/mage/validation.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="moment-timezone-with-data" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/moment-timezone-with-data.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/adapter" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/adapter.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/tab" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/tab.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/grid/dnd" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/grid/dnd.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/validate" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery.validate.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/validation/rules" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/validation/rules.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.metadata" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/jquery/jquery.metadata.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/components/collection/item" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/components/collection/item.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/country" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/country.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/region" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/region.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/post-code" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/post-code.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/form/element/boolean" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/form/element/boolean.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Ui/js/lib/validation/utils" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Ui/js/lib/validation/utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Checkout/js/model/default-post-code-resolver" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/Magento_Checkout/js/model/default-post-code-resolver.js"></script></head>
+    <body data-container="body" id="html-body" class="customer-index-edit page-layout-admin-2columns-left">
+        <div class="menu-wrapper">                        <a href="http://qa-magento2.evozon.com/index.php/admin/admin/" data-edition="Community Edition" class="logo">
+            <img class="logo-img" src="http://qa-magento2.evozon.com/static/version1533216979/adminhtml/Magento/backend/en_US/images/magento-icon.svg" alt="Magento Admin Panel" />
+        </a>
+    
+<nav class="admin__menu">
+    <ul id="nav" role="menubar"><li data-ui-id="menu-magento-backend-dashboard" class="item-dashboard    level-0" id="menu-magento-backend-dashboard" aria-haspopup="true" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/dashboard/index/key/2eeba8b4328bace4fc332e8c87b0919a24dc41c85ff2773e1284409138db5c15/" class=""><span>Dashboard</span></a></li><li data-ui-id="menu-magento-sales-sales" class="item-sales  parent  level-0" id="menu-magento-sales-sales" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Sales</span></a><div class="submenu" aria-labelledby="menu-magento-sales-sales"><strong class="submenu-title">Sales</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li data-ui-id="menu-magento-sales-sales-operation" class="item-sales-operation  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Operations</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-sales-sales-order" class="item-sales-order    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/order/index/key/27efafd9ef803d74797c8be530193feedbf6faf461cd177ac76df92dfc758d30/" class=""><span>Orders</span></a></li><li data-ui-id="menu-magento-sales-sales-invoice" class="item-sales-invoice    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/invoice/index/key/f5fea7a5879f9af7be61dc0ed6d7d2fdb768b56017336f9ddd206ddc0f3c9354/" class=""><span>Invoices</span></a></li><li data-ui-id="menu-magento-sales-sales-shipment" class="item-sales-shipment    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/shipment/index/key/89b51ba4f258a01ae047ac40d68e20e007df1066f6ea7c03ac71c98197a984c7/" class=""><span>Shipments</span></a></li><li data-ui-id="menu-temando-shipping-dispatches" class="item-dispatches    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/temando/dispatch/index/key/aeb704e822ff2a4c4c4428f9a2ce1677bd552504f1af2ae7eaf442a499654f25/" class=""><span>Dispatches</span></a></li><li data-ui-id="menu-magento-sales-sales-creditmemo" class="item-sales-creditmemo    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/creditmemo/index/key/d4f1ff534307dcbf6f28f5aae06424d92adb57ac6510ebe8c85bc0fa9756550d/" class=""><span>Credit Memos</span></a></li><li data-ui-id="menu-magento-paypal-paypal-billing-agreement" class="item-paypal-billing-agreement    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/paypal/billing_agreement/index/key/11c7f8abb5034d40660f3680914e775f7a8813bf722a0d862109d744c0f8b6a4/" class=""><span>Billing Agreements</span></a></li><li data-ui-id="menu-magento-sales-sales-transactions" class="item-sales-transactions    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/transactions/index/key/8e62ad0f30f5d87f06f0a88bcc9476e3a4757b3a6e3465a175d3f53c84f7bcd0/" class=""><span>Transactions</span></a></li></ul></div></li></ul></div></li><li data-ui-id="menu-magento-catalog-catalog" class="item-catalog  parent  level-0" id="menu-magento-catalog-catalog" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Catalog</span></a><div class="submenu" aria-labelledby="menu-magento-catalog-catalog"><strong class="submenu-title">Catalog</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li data-ui-id="menu-magento-catalog-inventory" class="item-inventory  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Inventory</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-catalog-catalog-products" class="item-catalog-products    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/catalog/product/index/key/0857706dbaf714f75185c9084a5915eb8f1eb33f7c3538359bd2a54e25bbdb96/" class=""><span>Products</span></a></li><li data-ui-id="menu-magento-catalog-catalog-categories" class="item-catalog-categories    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/catalog/category/index/key/d089b49a889edc235708ae8a1c6d6ad8c2fab8b0fc400e44ff47527c6d094846/" class=""><span>Categories</span></a></li></ul></div></li></ul></div></li><li data-ui-id="menu-magento-customer-customer" class="item-customer _current _active parent  level-0" id="menu-magento-customer-customer" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class="_active"><span>Customers</span></a><div class="submenu" aria-labelledby="menu-magento-customer-customer"><strong class="submenu-title">Customers</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li data-ui-id="menu-magento-customer-customer-manage" class="item-customer-manage    level-1" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/b79ebff22add4163d642577c5fde7b0aee1b915a51baa4e54c54f87710e40333/" class=""><span>All Customers</span></a></li><li data-ui-id="menu-magento-customer-customer-online" class="item-customer-online    level-1" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/customer/online/index/key/69a09da11b20e2ab90238bf034d51a90a24ae31e5d69293ca577366fc8400c97/" class=""><span>Now Online</span></a></li><li data-ui-id="menu-magento-customer-customer-group" class="item-customer-group    level-1" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/customer/group/index/key/728dac155ae962bf486b7efe0ec223736d2be01d31faf9c2489a9f66332f7713/" class=""><span>Customer Groups</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-marketing" class="item-marketing  parent  level-0" id="menu-magento-backend-marketing" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Marketing</span></a><div class="submenu" aria-labelledby="menu-magento-backend-marketing"><strong class="submenu-title">Marketing</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li class="column"><ul role="menu"><li data-ui-id="menu-magento-catalogrule-promo" class="item-promo  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Promotions</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-catalogrule-promo-catalog" class="item-promo-catalog    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/catalog_rule/promo_catalog/index/key/c8698c670f894acb4ca1b5d15cc423ff974248b19dd5b62a63e0ea759411e7bc/" class=""><span>Catalog Price Rule</span></a></li><li data-ui-id="menu-magento-salesrule-promo-quote" class="item-promo-quote    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales_rule/promo_quote/index/key/255e89d81e281ee55426e53bd8e8d1415290203c40312f2851a9b5423c160028/" class=""><span>Cart Price Rules</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-marketing-communications" class="item-marketing-communications  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Communications</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-email-template" class="item-template    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/email_template/index/key/8f30be7ef3e7a126f424e2aae13acc0a61ef6252255ebf01ff483245c705c90c/" class=""><span>Email Templates</span></a></li><li data-ui-id="menu-magento-newsletter-newsletter-template" class="item-newsletter-template    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/newsletter/template/index/key/a12989a63492edabac2150453cd6378fe72283b36de741149fb380f155b94179/" class=""><span>Newsletter Template</span></a></li><li data-ui-id="menu-magento-newsletter-newsletter-queue" class="item-newsletter-queue    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/newsletter/queue/index/key/1563f48257a45b89139f4d0ba175c611f62aa8b3c3f4d966c9a55dd00c3e7c64/" class=""><span>Newsletter Queue</span></a></li><li data-ui-id="menu-magento-newsletter-newsletter-subscriber" class="item-newsletter-subscriber    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/newsletter/subscriber/index/key/50b6c700c250e6e6a38fcce059199e3d495b65b102109c049a0084f653e1e636/" class=""><span>Newsletter Subscribers</span></a></li></ul></div></li><li data-ui-id="menu-shopial-facebook-marketing-social" class="item-marketing-social  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Social</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-shopial-facebook-shopial-facebook" class="item-shopial-facebook    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/facebook/index/index/key/0add027424442ca7ff01e366c84a90ffb789acd8d85b7282f5455c885bd2ae12/" class=""><span>Connect to Facebook</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-backend-marketing-seo" class="item-marketing-seo  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>SEO &amp; Search</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-urlrewrite-urlrewrite" class="item-urlrewrite    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/url_rewrite/index/key/67bb29e153382a40ec93a4759de6d2a22af064a6ff90b592398c8700d48e35f1/" class=""><span>URL Rewrites</span></a></li><li data-ui-id="menu-magento-search-search-terms" class="item-search-terms    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/search/term/index/key/33c868ccb4e608f5b13c0b4b07295bc30dcb20de1e25c55e9631473a2d373f72/" class=""><span>Search Terms</span></a></li><li data-ui-id="menu-magento-search-search-synonyms" class="item-search-synonyms    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/search/synonyms/index/key/1b425cfc719e9414bb09774e1c2f04533d00ec24244dc25ba7d3f339b2831f9c/" class=""><span>Search Synonyms</span></a></li><li data-ui-id="menu-magento-sitemap-catalog-sitemap" class="item-catalog-sitemap    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/sitemap/index/key/e8b73868dad8a4ae4019ad76c4baffa551d302f51927528a0ac9787ae97b1790/" class=""><span>Site Map</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-marketing-user-content" class="item-marketing-user-content  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>User Content</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-review-catalog-reviews-ratings-reviews-all" class="item-catalog-reviews-ratings-reviews-all    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/review/product/index/key/f56645d85dc83aa395a373eea04e082b0c23674ac7b0c00969d7b8f77dba0944/" class=""><span>Reviews</span></a></li></ul></div></li><li data-ui-id="menu-dotdigitalgroup-email-marketing-automation" class="item-marketing-automation  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Marketing Automation</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-dotdigitalgroup-email-automation-studio" class="item-automation-studio    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/studio/index/key/62541bb19eeac8206ba9b7afb15aade3adf5082158f025c662e43d117c864acb/" class=""><span>Automation Studio</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-exclusion-rules" class="item-exclusion-rules    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/rules/index/key/7302070491d80ea5bdcb0079d97d6c8a8d31b051cb9e28d70bad58ac17ccf121/" class=""><span>Exclusion Rules</span></a></li></ul></div></li></ul></li></ul></div></li><li data-ui-id="menu-magento-backend-content" class="item-content  parent  level-0" id="menu-magento-backend-content" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Content</span></a><div class="submenu" aria-labelledby="menu-magento-backend-content"><strong class="submenu-title">Content</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li data-ui-id="menu-magento-backend-content-elements" class="item-content-elements  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Elements</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-cms-cms-page" class="item-cms-page    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/cms/page/index/key/7d83e8bc01f2099906eb1f2e19e669e45944affaf49d773b368b0fbc776bacee/" class=""><span>Pages</span></a></li><li data-ui-id="menu-magento-cms-cms-block" class="item-cms-block    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/cms/block/index/key/8f33fa638bcf9494e1323b56cb94d8e3dcfa9e520fa5270a06e7f4c6a36eee1f/" class=""><span>Blocks</span></a></li><li data-ui-id="menu-magento-widget-cms-widget-instance" class="item-cms-widget-instance    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/widget_instance/index/key/51e90715d11e918bdb19d70aa99b961e4d4df21e6c78d5ada2d48d91ef3fc495/" class=""><span>Widgets</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-system-design" class="item-system-design  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Design</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-theme-design-config" class="item-design-config    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/theme/design_config/index/key/52f6aedda02bf33d310326e648aa38a2735cfd371f7cf86b20441ca277db4483/" class=""><span>Configuration</span></a></li><li data-ui-id="menu-magento-theme-system-design-theme" class="item-system-design-theme    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_design_theme/index/key/2bfccbe0bc89c356cf4095847ab2bfb7d0a63cc528e8b4ca30b1932e9d274b0b/" class=""><span>Themes</span></a></li><li data-ui-id="menu-magento-backend-system-design-schedule" class="item-system-design-schedule    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_design/index/key/b33ffe9c2384d840fa896689ddba71fa1d68fdd6c83310291942bf99c7fdcf46/" class=""><span>Schedule</span></a></li></ul></div></li></ul></div></li><li data-ui-id="menu-magento-reports-report" class="item-report  parent  level-0" id="menu-magento-reports-report" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Reports</span></a><div class="submenu" aria-labelledby="menu-magento-reports-report"><strong class="submenu-title">Reports</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li class="column"><ul role="menu"><li data-ui-id="menu-magento-reports-report-marketing" class="item-report-marketing  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Marketing</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-reports-report-shopcart-product" class="item-report-shopcart-product    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_shopcart/product/key/64d6b4866c1f14c7502cdac75eea98698d8d70b99e7894f3ca9c203b2c42426e/" class=""><span>Products in Cart</span></a></li><li data-ui-id="menu-magento-search-report-search-term" class="item-report-search-term    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/search/term/report/key/01134930a69bf16671f473ae334f1e8951fb82d4a19835f9182f96a23b640239/" class=""><span>Search Terms</span></a></li><li data-ui-id="menu-magento-reports-report-shopcart-abandoned" class="item-report-shopcart-abandoned    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_shopcart/abandoned/key/2cfefd700eb1674f43292bdf82e95eacca4453e595e389003d80bb361205ae15/" class=""><span>Abandoned Carts</span></a></li><li data-ui-id="menu-magento-newsletter-newsletter-problem" class="item-newsletter-problem    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/newsletter/problem/index/key/6a1642045ea4bc853112982aae024d7836964685686118c3f0fd967b85cbe11e/" class=""><span>Newsletter Problem Reports</span></a></li></ul></div></li><li data-ui-id="menu-magento-review-report-review" class="item-report-review  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Reviews</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-review-report-review-customer" class="item-report-review-customer    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_review/customer/key/71867f7833b74659cf2f50f995900455ca54a2efd11163a01d37c4a7e0ef78d8/" class=""><span>By Customers</span></a></li><li data-ui-id="menu-magento-review-report-review-product" class="item-report-review-product    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_review/product/key/48d1af0ca542f50804664d79998209f5e59b82ec226f1c32974cd0464594b52e/" class=""><span>By Products</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-reports-report-salesroot" class="item-report-salesroot  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Sales</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-reports-report-salesroot-sales" class="item-report-salesroot-sales    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/sales/key/83006e4adf4671add615502457347f66f7da504b9dea394c625f29ccf630d959/" class=""><span>Orders</span></a></li><li data-ui-id="menu-magento-reports-report-salesroot-tax" class="item-report-salesroot-tax    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/tax/key/8826fa6245d85c0fbfd2b1530b7e973c9b3dd80839cbfe294f6185115268ba94/" class=""><span>Tax</span></a></li><li data-ui-id="menu-magento-reports-report-salesroot-invoiced" class="item-report-salesroot-invoiced    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/invoiced/key/70e72bc99f5c7fe138e2130fe4a397e1a18a8055628e6a413e9e6d3d7fb02d7c/" class=""><span>Invoiced</span></a></li><li data-ui-id="menu-magento-reports-report-salesroot-shipping" class="item-report-salesroot-shipping    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/shipping/key/a906a5da50c3a9f8f8a28fc9bfd7707fa769f5ccc05bb2bccc0b5a254577d280/" class=""><span>Shipping</span></a></li><li data-ui-id="menu-magento-reports-report-salesroot-refunded" class="item-report-salesroot-refunded    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/refunded/key/3953373782c0dbf2ffa16b21a4b7058bd8914aca6c366b9a0fcc8a6f520bfd78/" class=""><span>Refunds</span></a></li><li data-ui-id="menu-magento-reports-report-salesroot-coupons" class="item-report-salesroot-coupons    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/coupons/key/27a7834218c73fd3d877b22ca12e85405358d8bee3980988e18ac9ea371b7204/" class=""><span>Coupons</span></a></li><li data-ui-id="menu-magento-paypal-report-salesroot-paypal-settlement-reports" class="item-report-salesroot-paypal-settlement-reports    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/paypal/paypal_reports/index/key/0fb4f53f07902b6f363de2c604924f2e0704bcf2ce9cb6324258b0ed34ef346d/" class=""><span>PayPal Settlement</span></a></li><li data-ui-id="menu-magento-braintree-settlement-report" class="item-settlement-report    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/braintree/report/index/key/f6d69231389802baa59c2ac24e8c93ca927d09f749e2bb924c6d52a998183165/" class=""><span>Braintree Settlement</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-reports-report-customers" class="item-report-customers  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Customers</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-reports-report-customers-totals" class="item-report-customers-totals    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_customer/totals/key/a2f9191efe888cb8010b7758224df0c1129955640915803ed313f0418d531ec2/" class=""><span>Order Total</span></a></li><li data-ui-id="menu-magento-reports-report-customers-orders" class="item-report-customers-orders    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_customer/orders/key/8ce2efdcbef6df0186af3ece312a87e74cb5242b721829bbc033ec103e78b4ac/" class=""><span>Order Count</span></a></li><li data-ui-id="menu-magento-reports-report-customers-accounts" class="item-report-customers-accounts    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_customer/accounts/key/063eebebe5ecf21de6de280d7569089bb33b17ed91e81167060ff49006090d3d/" class=""><span>New</span></a></li></ul></div></li><li data-ui-id="menu-magento-reports-report-products" class="item-report-products  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Products</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-reports-report-products-viewed" class="item-report-products-viewed    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_product/viewed/key/be9416d704c238d2f6245f08e94a52df867bdc6fac484ed9b995f3aa59fc23f0/" class=""><span>Views</span></a></li><li data-ui-id="menu-magento-reports-report-products-bestsellers" class="item-report-products-bestsellers    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_sales/bestsellers/key/05edb017f0f5faa9ff6cd2538bce8a412c879ecc94c61c1523523e621e12b12f/" class=""><span>Bestsellers</span></a></li><li data-ui-id="menu-magento-reports-report-products-lowstock" class="item-report-products-lowstock    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_product/lowstock/key/23fce26374f9d58b4ab0f9843e88b4d4cf8491000bfbadd4d12c8ec10df024d5/" class=""><span>Low Stock</span></a></li><li data-ui-id="menu-magento-reports-report-products-sold" class="item-report-products-sold    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_product/sold/key/04c35c5d1a7a59441e430cadea44d1dfb25641ccfc8e413041e36c824a37d56f/" class=""><span>Ordered</span></a></li><li data-ui-id="menu-magento-downloadable-report-products-downloads" class="item-report-products-downloads    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_product/downloads/key/367a83dd47203f9cce7eb6d130983eeb56224e1c28e791abab170d3113fb51db/" class=""><span>Downloads</span></a></li></ul></div></li><li data-ui-id="menu-magento-reports-report-statistics" class="item-report-statistics  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Statistics</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-reports-report-statistics-refresh" class="item-report-statistics-refresh    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/reports/report_statistics/index/key/a7362d2576a8c93989c58818f7a225788b47f6d0dddeb0b4ba7fca2794e36ad5/" class=""><span>Refresh Statistics</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-analytics-business-intelligence" class="item-business-intelligence  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Business Intelligence</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-analytics-advanced-reporting" class="item-advanced-reporting    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/analytics/reports/show/key/18540287a6df90ab043fb34fcd7f5ea81ee9fa25153d6e41b2e805f479ef3f08/" target="_blank" class=""><span>Advanced Reporting</span></a></li><li data-ui-id="menu-magento-analytics-bi-essentials" class="item-bi-essentials    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/analytics/biessentials/signup/key/fc18be80b25aa9505b0375fcf66f8095d2767acf0bdb42edb4cd34100fdeb173/" target="_blank" class=""><span>BI Essentials</span></a></li></ul></div></li><li data-ui-id="menu-dotdigitalgroup-email-marketing-automation-report" class="item-marketing-automation-report  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Marketing Automation</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-dotdigitalgroup-email-importer" class="item-importer    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/importer/index/key/44f76adad4fffccacbfce211336b45a1b86ab07d3d66a4fcb5601df0b0e97fba/" class=""><span>Importer Status</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-automation" class="item-automation    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/automation/index/key/006b2c08ed5c07ee8aafe82123aa3f5269553a3aa32a55939af12179b57ce884/" class=""><span>Automation Enrollment</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-campaign" class="item-campaign    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/campaign/index/key/b24fdf76efda9856b90ca2f93ecb21fbb4c6ab6a2b3f0a6a44c996984e7474f1/" class=""><span>Campaign Sends</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-cron" class="item-cron    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/cron/index/key/84ee1278ee1a1685fad16f829bde8a8243f5fddf684d9ffc6ca5c73445dba247/" class=""><span>Cron Tasks</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-dashboards" class="item-dashboards    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/dashboard/index/key/b34ad2548180a45d6e2db204ddb38929857b6b1e52e976ea95a330fbe066eaf5/" class=""><span>Dashboard</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-logviewer" class="item-logviewer    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/logviewer/index/key/df6c8d64bdd2e24ab047fc782bbfb87e0a0acf143b99948177e0d6e50aa3d11a/" class=""><span>Log Viewer</span></a></li><li data-ui-id="menu-dotdigitalgroup-email-abandoned" class="item-abandoned    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/dotdigitalgroup_email/abandoned/index/key/d324b5cc1ad24e220bf617ab244a4c047fdf757ba40c52f49a0e1fedc3d95cb3/" class=""><span>Abandoned Carts</span></a></li></ul></div></li></ul></li></ul></div></li><li data-ui-id="menu-magento-backend-stores" class="item-stores  parent  level-0" id="menu-magento-backend-stores" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>Stores</span></a><div class="submenu" aria-labelledby="menu-magento-backend-stores"><strong class="submenu-title">Stores</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li class="column"><ul role="menu"><li data-ui-id="menu-magento-backend-stores-settings" class="item-stores-settings  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Settings</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-backend-system-store" class="item-system-store    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_store/index/key/7e64b19f144a94c4b8b6080e0ccc63717ae781e5a6d875c20077cfe521f168e5/" class=""><span>All Stores</span></a></li><li data-ui-id="menu-magento-config-system-config" class="item-system-config    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_config/index/key/8520d99fc35704a5432b4ea3d1d42b2ab9f329bef4232985cf09b6f38182c822/" class=""><span>Configuration</span></a></li><li data-ui-id="menu-magento-checkoutagreements-sales-checkoutagreement" class="item-sales-checkoutagreement    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/checkout/agreement/index/key/a2abba4875a4fe2a3855a1a78af7a3b656c15a1fe1242f53dee745a5afbc38c8/" class=""><span>Terms and Conditions</span></a></li><li data-ui-id="menu-magento-sales-system-order-statuses" class="item-system-order-statuses    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/sales/order_status/index/key/2ac026c1c084b62dbed87b3b0f513e3531d2bbea95c91f8d386328657de76541/" class=""><span>Order Status</span></a></li></ul></div></li><li data-ui-id="menu-magento-tax-sales-tax" class="item-sales-tax  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Taxes</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-tax-sales-tax-rules" class="item-sales-tax-rules    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/tax/rule/index/key/943339af467ba1d52ab1140bd4fb582b0b86f4fcc37f2212e87495916bb5c3cf/" class=""><span>Tax Rules</span></a></li><li data-ui-id="menu-magento-tax-sales-tax-rates" class="item-sales-tax-rates    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/tax/rate/index/key/54515d38a6bcf0597d7431141811b09e45ff13427784a339f373823940c07acb/" class=""><span>Tax Zones and Rates</span></a></li></ul></div></li><li data-ui-id="menu-magento-currencysymbol-system-currency" class="item-system-currency  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Currency</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-currencysymbol-system-currency-rates" class="item-system-currency-rates    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_currency/index/key/134a950fe43f453e7a2c70b621e2bceb7953deec607c103645519a39cd0ec5a9/" class=""><span>Currency Rates</span></a></li><li data-ui-id="menu-magento-currencysymbol-system-currency-symbols" class="item-system-currency-symbols    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_currencysymbol/index/key/a1869113b503c61ccb2d28c1391dafd30cab0b8536b2704adbca2b5eedab4b14/" class=""><span>Currency Symbols</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-backend-stores-attributes" class="item-stores-attributes  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Attributes</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-catalog-catalog-attributes-attributes" class="item-catalog-attributes-attributes    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/catalog/product_attribute/index/key/d7146864bad34143e499766f47e2955bc3dbcbcda839f10c130836562581986a/" class=""><span>Product</span></a></li><li data-ui-id="menu-magento-catalog-catalog-attributes-sets" class="item-catalog-attributes-sets    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/catalog/product_set/index/key/8a3269bbf63fb7e4e7f9fc6a1524feeef03d0150261f362444a44316e0dea464/" class=""><span>Attribute Set</span></a></li><li data-ui-id="menu-magento-review-catalog-reviews-ratings-ratings" class="item-catalog-reviews-ratings-ratings    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/review/rating/index/key/57a71801b19247170478d922e2233b06536bcfbb56e12ab27ca35112a29097f2/" class=""><span>Rating</span></a></li></ul></div></li><li data-ui-id="menu-temando-shipping-shipping" class="item-shipping  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Shipping</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-temando-shipping-carriers" class="item-carriers    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/temando/configuration_carrier/index/key/af27bd0d83c48f219689b698c28e3ac04e5e2bf251b6413f743b5a0ece79894c/" class=""><span>Carriers</span></a></li><li data-ui-id="menu-temando-shipping-locations" class="item-locations    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/temando/configuration_location/index/key/ce965f3aa0ddbde9e826b38c6c3f115070136c33202e6a48edd9700e463eeaeb/" class=""><span>Locations</span></a></li><li data-ui-id="menu-temando-shipping-packaging" class="item-packaging    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/temando/configuration_packaging/index/key/3b87596c95c0f63901a38c1290b1f683610e59cd1c8a6bdae1a22da9cba7b729/" class=""><span>Packaging</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-other-settings" class="item-other-settings    level-1" role="menu-item"></li></ul></li></ul></div></li><li data-ui-id="menu-magento-backend-system" class="item-system  parent  level-0" id="menu-magento-backend-system" aria-haspopup="true" role="menu-item"><a href="#" onclick="return false;" class=""><span>System</span></a><div class="submenu" aria-labelledby="menu-magento-backend-system"><strong class="submenu-title">System</strong><a href="#" class="action-close _close" data-role="close-submenu"></a><ul role="menu"><li class="column"><ul role="menu"><li data-ui-id="menu-magento-backend-system-convert" class="item-system-convert  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Data Transfer</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-importexport-system-convert-import" class="item-system-convert-import    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/import/index/key/6f349c1a883bd05c9d079f54946222c596ff9ecad31fade5cd23669f5e1d35ae/" class=""><span>Import</span></a></li><li data-ui-id="menu-magento-importexport-system-convert-export" class="item-system-convert-export    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/export/index/key/38de498e7b99b8a8d08e7b0d1c3c2e14042f69f9b3926e08dd5f6dc5090d7541/" class=""><span>Export</span></a></li><li data-ui-id="menu-magento-taximportexport-system-convert-tax" class="item-system-convert-tax    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/tax/rate/importExport/key/892af20be2efa34c34613ef2bfc5f5f74b2afcc4a91ab215d74925cc6bb344cb/" class=""><span>Import/Export Tax Rates</span></a></li><li data-ui-id="menu-magento-importexport-system-convert-history" class="item-system-convert-history    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/history/index/key/47bcaf1a8442ec915dac928a03d628b23c2af33c6bc29e04d44874bb61b3d2ef/" class=""><span>Import History</span></a></li></ul></div></li><li data-ui-id="menu-magento-integration-system-extensions" class="item-system-extensions  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Extensions</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-integration-system-integrations" class="item-system-integrations    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/integration/index/key/299121a7487921e4fc185a1345e86c558ea4455093d4c444f796895684af785d/" class=""><span>Integrations</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-system-tools" class="item-system-tools  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Tools</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-backend-system-cache" class="item-system-cache    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/cache/index/key/1d3c19034890d7d0023542e3e1c61a07908ce65f1c2d7b8e7856fffadcc18c4f/" class=""><span>Cache Management</span></a></li><li data-ui-id="menu-magento-indexer-system-index" class="item-system-index    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/indexer/indexer/list/key/bffbd0efc150ad76597a490689b2ee4c7c4333cd264296baae5ffa7c4c8d4f52/" class=""><span>Index Management</span></a></li><li data-ui-id="menu-magento-backup-system-tools-backup" class="item-system-tools-backup    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/backup/index/index/key/7d1b2dcda5ff0afe9823115fa5a6c9a2f0dbcc3270fcb02c221372fb17e048ca/" class=""><span>Backups</span></a></li></ul></div></li></ul></li><li class="column"><ul role="menu"><li data-ui-id="menu-magento-user-system-acl" class="item-system-acl  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Permissions</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-user-system-acl-users" class="item-system-acl-users    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/user/index/key/a38efe67e461b9fab50ac165d6205308a8c740a4f39955f1992287874e14ec4b/" class=""><span>All Users</span></a></li><li data-ui-id="menu-magento-user-system-acl-locks" class="item-system-acl-locks    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/locks/index/key/fccf8c6752ac80d8235928006b6b915ac8ecb7472e2156323e7838b8460f99b1/" class=""><span>Locked Users</span></a></li><li data-ui-id="menu-magento-user-system-acl-roles" class="item-system-acl-roles    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/user_role/index/key/248b1fa78ccb4225dd425fe109d431af4b173939751273a1c4a8522c4faf0450/" class=""><span>User Roles</span></a></li></ul></div></li><li data-ui-id="menu-magento-backend-system-other-settings" class="item-system-other-settings  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Other Settings</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-magento-adminnotification-system-adminnotification" class="item-system-adminnotification    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/notification/index/key/3b01a9e0ef1a16def5b116845f11fd53285e42597245b16b94a67c3c4ff10f4a/" class=""><span>Notifications</span></a></li><li data-ui-id="menu-magento-variable-system-variable" class="item-system-variable    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_variable/index/key/1a632d3201b90b064d43d27afeb1e5b6cd6ce901e6bb301b7f13f0ca28eabf61/" class=""><span>Custom Variables</span></a></li><li data-ui-id="menu-magento-encryptionkey-system-crypt-key" class="item-system-crypt-key    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/admin/crypt_key/index/key/49981f7f58dc8fa1a3cb5039c3d0d8995038cd21172ccf0e4f26087dc1924c6c/" class=""><span>Manage Encryption Key</span></a></li></ul></div></li><li data-ui-id="menu-amazon-core-logs" class="item-logs  parent  level-1" role="menu-item"><strong class="submenu-group-title" role="presentation"><span>Amazon Logs</span></strong><div class="submenu"><ul role="menu"><li data-ui-id="menu-amazon-core-client-logs" class="item-client-logs    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/amazonlogs/download/clientLog/key/38262e46c620bddecd0998fe2b8c042b3cf86c42f55e6c749886e28083a69c43/" class=""><span>Client</span></a></li><li data-ui-id="menu-amazon-core-ipn-logs" class="item-ipn-logs    level-2" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/amazonlogs/download/ipnLog/key/de54786a4f3f1fe33533f64fa62dd80efbe9e1d2ed21e803e4164d8b429762b4/" class=""><span>IPN</span></a></li></ul></div></li></ul></li></ul></div></li><li data-ui-id="menu-magento-marketplace-partners" class="item-partners   last level-0" id="menu-magento-marketplace-partners" aria-haspopup="true" role="menu-item"><a href="http://qa-magento2.evozon.com/index.php/admin/marketplace/index/index/key/160ce40a5494c350b4a742c1536effbf6e9414d72b74d1368b5548d57fdde962/" class=""><span>Find Partners &amp; Extensions</span></a></li></ul></nav>
+
+</div>    <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== 'c3eb0694a2e58e11e08329329950af0f34c84b95') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: 'c3eb0694a2e58e11e08329329950af0f34c84b95'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+
+
+
+
+<script>
+require([
+    "jquery",
+    "jquery/ui"
+], function($){
+
+    $.extend(true, $, {
+        calendarConfig: {
+            dayNames: ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            dayNamesMin: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+            monthNames: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+            monthNamesShort: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+            infoTitle: "About the calendar",
+            firstDay: 0,
+            closeText: "Close",
+            currentText: "Go Today",
+            prevText: "Previous",
+            nextText: "Next",
+            weekHeader: "WK",
+            timeText: "Time",
+            hourText: "Hour",
+            minuteText: "Minute",
+            dateFormat: $.datepicker.RFC_2822,
+            showOn: "button",
+            showAnim: "",
+            changeMonth: true,
+            changeYear: true,
+            buttonImageOnly: null,
+            buttonImage: null,
+            showButtonPanel: true,
+            showOtherMonths: true,
+            showWeek: false,
+            timeFormat: '',
+            showTime: false,
+            showHour: false,
+            showMinute: false,
+            serverTimezoneSeconds: 1533875314,
+            serverTimezoneOffset: -25200,
+            yearRange: '1918:2118'
+        }
+    });
+
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+
+});
+</script>
+<div class="page-wrapper"><div class="notices-wrapper">    <noscript>
+        &lt;div class="messages"&gt;
+            &lt;div class="message message-warning message-noscript"&gt;
+                &lt;strong&gt;JavaScript may be disabled in your browser.&lt;/strong&gt;
+                To use this website you must first enable JavaScript in your browser.            &lt;/div&gt;
+        &lt;/div&gt;
+    </noscript>
+<!--
+/**
+ * Copyright &copy; Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+--><div class="admin__data-grid-outer-wrap" data-bind="scope: 'notification_area.notification_area'">
+    <div data-role="spinner" data-component="notification_area.notification_area.columns" class="admin__data-grid-loading-mask" style="display: none;">
+        <div class="spinner">
+            <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+        </div>
+    </div>
+    <!-- ko template: getTemplate() -->
+<!-- ko foreach: {data: elems, as: 'element'} -->
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<div id="system_messages" class="message-system" data-bind="visible: totalRecords, collapsible" style="">
+    <div class="message-system-inner" data-bind="outerClick: fixLoaderHeight.bind($data, true)">
+        <div class="message-system-short">
+            <button class="message-system-action-dropdown" data-bind="toggleCollapsible">
+                <span>
+                    <!-- ko i18n: 'System Messages' --><span>System Messages</span><!-- /ko -->:
+                    <!-- ko text: totalRecords -->2<!-- /ko -->
+                </span>
+            </button>
+            <!-- ko if: rows[0] --><!-- ko repeat: {foreach: [rows[0]], item: '$row'} --><div class="message-system-short-wrapper" data-bind="visible: !$collapsible.opened()" data-repeat-index="0">
+                <!-- ko fastForEach: {data: getVisible(), as: '$col'} -->
+                    <!-- ko template: $col.getBody() -->
+<div data-bind="css: $col.getFieldClass($row()), html: $col.getLabel($row())" class="message message-warning">One or more <a href="http://qa-magento2.evozon.com/index.php/admin/admin/integration/index/key/299121a7487921e4fc185a1345e86c558ea4455093d4c444f796895684af785d/">integrations</a> have been reset because of a change to their xml configs.</div>
+<!-- /ko -->
+                <!-- /ko -->
+            </div><!-- /ko --><!-- /ko -->
+        </div>
+        <div class="message-system-collapsible">
+            <ul class="message-system-list">
+                <!-- ko repeat: {foreach: rows, item: '$row'} --><li data-repeat-index="0">
+                    <!-- ko fastForEach: {data: getVisible(), as: '$col'} -->
+                        <!-- ko template: $col.getBody() -->
+<div data-bind="css: $col.getFieldClass($row()), html: $col.getLabel($row())" class="message message-warning">One or more <a href="http://qa-magento2.evozon.com/index.php/admin/admin/integration/index/key/299121a7487921e4fc185a1345e86c558ea4455093d4c444f796895684af785d/">integrations</a> have been reset because of a change to their xml configs.</div>
+<!-- /ko -->
+                    <!-- /ko -->
+                </li><li data-repeat-index="1">
+                    <!-- ko fastForEach: {data: getVisible(), as: '$col'} -->
+                        <!-- ko template: $col.getBody() -->
+<div data-bind="css: $col.getFieldClass($row()), html: $col.getLabel($row())" class="message message-warning">One or more <a href="http://qa-magento2.evozon.com/index.php/admin/indexer/indexer/list/key/bffbd0efc150ad76597a490689b2ee4c7c4333cd264296baae5ffa7c4c8d4f52/">indexers are invalid</a>. Make sure your <a href="http://devdocs.magento.com/guides/v2.2/config-guide/cli/config-cli-subcommands-cron.html#create-or-remove-the-magento-crontab" target="_blank">Magento cron job</a> is running.</div>
+<!-- /ko -->
+                    <!-- /ko -->
+                </li><!-- /ko -->
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- /ko --><!-- /ko -->
+<!-- /ko -->
+<!-- /ko -->
+</div>
+</div><header class="page-header row"><div class="page-header-hgroup col-l-8 col-m-6">
+<div class="page-title-wrapper">
+    <h1 class="page-title">RiApYKoT Test aNrwBsOM</h1>
+    </div>
+</div><div class="page-header-actions col-l-4 col-m-6">        <div class="admin-user admin__action-dropdown-wrap">
+            <a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_account/index/key/336ff264b81e88f68af5e6ff687acd16d4a8383ca3b02cc345156a5a0874026c/" class="admin__action-dropdown" title="My Account" data-toggle="dropdown">
+                <span class="admin__action-dropdown-text">
+                    <span class="admin-user-account-text">admin</span>
+                </span>
+            </a>
+            <ul class="admin__action-dropdown-menu">
+                                <li>
+                    <a href="http://qa-magento2.evozon.com/index.php/admin/admin/system_account/index/key/336ff264b81e88f68af5e6ff687acd16d4a8383ca3b02cc345156a5a0874026c/" data-ui-id="user-user-account-settings" title="Account Setting">
+                        Account Setting (<span class="admin-user-name">admin</span>)
+                    </a>
+                </li>
+                                <li>
+                    <a href="http://qa-magento2.evozon.com/index.php/" title="Customer View" target="_blank" class="store-front">
+                        Customer View                    </a>
+                </li>
+                <li>
+                    <a href="http://qa-magento2.evozon.com/index.php/admin/admin/auth/logout/key/a53dbe5bad8f1e6a6672d9eef277ee5d92c18e9ecb14e841b9484c3b7f496657/" class="account-signout" title="Sign Out">
+                        Sign Out                    </a>
+                </li>
+            </ul>
+        </div>
+    <div class="notifications-wrapper admin__action-dropdown-wrap" data-notification-count="0">
+            <a class="notifications-action admin__action-dropdown" href="http://qa-magento2.evozon.com/index.php/admin/admin/notification/index/key/3b01a9e0ef1a16def5b116845f11fd53285e42597245b16b94a67c3c4ff10f4a/" title="Notifications">
+        </a>
+    </div>
+<div class="search-global">
+    <form action="#" id="form-search">
+        <div class="search-global-field">
+            <label class="search-global-label" for="search-global"></label>
+            <input type="hidden" name="query" /><div class="mage-suggest"><div class="mage-suggest-inner"><input type="text" class="search-global-input" id="search-global" autocomplete="off" /><div class="autocomplete-results" style="display: none;"></div></div></div>
+            <button type="submit" class="search-global-action" title="Search"></button>
+        </div>
+    </form>
+    <script data-template="search-suggest" type="text/x-magento-template">
+        &lt;ul class="search-global-menu"&gt;
+                            &lt;li class="item"&gt;
+                    &lt;a id="searchPreviewProducts"
+                       href="http://qa-magento2.evozon.com/index.php/admin/catalog/product/index/key/0857706dbaf714f75185c9084a5915eb8f1eb33f7c3538359bd2a54e25bbdb96/?search=&lt;%- data.term%&gt;"
+                       class="title"&gt;
+                        "&lt;%- data.term%&gt;" in Products                    &lt;/a&gt;
+                &lt;/li&gt;
+                            &lt;li class="item"&gt;
+                    &lt;a id="searchPreviewOrders"
+                       href="http://qa-magento2.evozon.com/index.php/admin/sales/order/index/key/27efafd9ef803d74797c8be530193feedbf6faf461cd177ac76df92dfc758d30/?search=&lt;%- data.term%&gt;"
+                       class="title"&gt;
+                        "&lt;%- data.term%&gt;" in Orders                    &lt;/a&gt;
+                &lt;/li&gt;
+                            &lt;li class="item"&gt;
+                    &lt;a id="searchPreviewCustomers"
+                       href="http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/b79ebff22add4163d642577c5fde7b0aee1b915a51baa4e54c54f87710e40333/?search=&lt;%- data.term%&gt;"
+                       class="title"&gt;
+                        "&lt;%- data.term%&gt;" in Customers                    &lt;/a&gt;
+                &lt;/li&gt;
+                            &lt;li class="item"&gt;
+                    &lt;a id="searchPreviewPages"
+                       href="http://qa-magento2.evozon.com/index.php/admin/cms/page/index/key/7d83e8bc01f2099906eb1f2e19e669e45944affaf49d773b368b0fbc776bacee/?search=&lt;%- data.term%&gt;"
+                       class="title"&gt;
+                        "&lt;%- data.term%&gt;" in Pages                    &lt;/a&gt;
+                &lt;/li&gt;
+                        &lt;% if (data.items.length) { %&gt;
+            &lt;% _.each(data.items, function(value){ %&gt;
+            &lt;li class="item"
+                &lt;%- data.optionData(value) %&gt;
+                &gt;
+                &lt;a href="&lt;%- value.url %&gt;" class="title"&gt;&lt;%- value.name %&gt;&lt;/a&gt;
+                &lt;span class="type"&gt;&lt;%- value.type %&gt;&lt;/span&gt;
+                &lt;%- value.description || "" %&gt;
+            &lt;/li&gt;
+            &lt;% }); %&gt;
+        &lt;% } else { %&gt;
+            &lt;li&gt;
+                &lt;span class="mage-suggest-no-records"&gt;
+                    No records found.                &lt;/span&gt;
+            &lt;/li&gt;
+        &lt;% } %&gt;
+        &lt;/ul&gt;
+    </script>
+</div>
+</div></header><div><input name="form_key" type="hidden" value="RfmliqEMF0b1eel1" /></div>
+<main id="anchor-content" class="page-content"><div class="page-main-actions">    <div class="page-actions-placeholder"></div><div class="page-actions" data-ui-id="page-actions-toolbar-content-header"><div class="page-actions-inner" data-title="RiApYKoT Test aNrwBsOM"><div class="page-actions-buttons">
+        <button id="back" title="Back" type="button" class="action- scalable back" onclick="location.href = 'http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/b79ebff22add4163d642577c5fde7b0aee1b915a51baa4e54c54f87710e40333/';" data-ui-id="back-button">
+    <span>Back</span>
+</button>
+<button id="customer-edit-delete-button" title="Delete Customer" type="button" class="action- scalable delete" data-url="http://qa-magento2.evozon.com/index.php/admin/customer/index/delete/id/1/key/d507dfe1a10c1e9b4face72472e8ed55004b787f6d00d3c6c898658a23d49771/" data-ui-id="customer-edit-delete-button-button">
+    <span>Delete Customer</span>
+</button>
+<button id="reset" title="Reset" type="button" class="action- scalable reset" onclick="location.reload();" data-ui-id="reset-button">
+    <span>Reset</span>
+</button>
+<button id="order" title="Create Order" type="button" class="action- scalable add" onclick="location.href = 'http://qa-magento2.evozon.com/index.php/admin/sales/order_create/start/customer_id/1/key/1a3593d4d8b40c5533fad826fa53164ba63ce2ddc1aa9adb5ff0e3833ce62865/';" data-ui-id="order-button">
+    <span>Create Order</span>
+</button>
+<button id="resetPassword" title="Reset Password" type="button" class="action- scalable reset reset-password" onclick="location.href = 'http://qa-magento2.evozon.com/index.php/admin/customer/index/resetPassword/customer_id/1/key/a38eaacffadadddb96254aa502bf8a7dd5b9f2f45ecf98ca6f6cf543ec1306e5/';" data-ui-id="resetpassword-button">
+    <span>Reset Password</span>
+</button>
+<button id="invalidateToken" title="Force Sign-In" type="button" class="action- scalable invalidate-token" onclick="deleteConfirm(&quot;Are you sure you want to revoke the customer's tokens?&quot;, &quot;http://qa-magento2.evozon.com/index.php/admin/customer/customer/invalidateToken/customer_id/1/key/71aafa740706763e92edf07b0ac26a90d9ea44b745d36a5eaa489246ec64eafd/&quot;)" data-ui-id="invalidatetoken-button">
+    <span>Force Sign-In</span>
+</button>
+<button id="save_and_continue" title="Save and Continue Edit" type="button" class="action- scalable save ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="location.href = 'http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/18246a6806e0d9fe2ca66d3c4d0e782c1742e0b8f26f0d8c380ed10dbb596349/';" data-ui-id="save-and-continue-button" role="button" aria-disabled="false"><span class="ui-button-text">
+    <span>Save and Continue Edit</span>
+</span></button>
+<button id="save" title="Save Customer" type="button" class="action- scalable save primary ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" onclick="location.href = 'http://qa-magento2.evozon.com/index.php/admin/customer/index/index/key/18246a6806e0d9fe2ca66d3c4d0e782c1742e0b8f26f0d8c380ed10dbb596349/';" data-form-role="save" data-ui-id="save-button" role="button" aria-disabled="false"><span class="ui-button-text">
+    <span>Save Customer</span>
+</span></button>
+    </div></div></div>
+</div><div id="page:main-container" class="page-columns"><div id="container" class="main-col"><div class="admin__old"><!--
+/**
+ * Copyright &copy; Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+--><div>
+    <div data-role="spinner" data-component="customer_form.areas" class="admin__data-grid-loading-mask" style="display: none;">
+        <div class="spinner">
+            <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+        </div>
+    </div>
+    <div data-bind="scope: 'customer_form.areas'" class="entry-edit form-inline">
+        <!-- ko template: getTemplate() -->
+<!-- ko foreach: {data: elems, as: 'element'} -->
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated -->
+    <div data-bind="attr: {'data-area-active': active}, visible: active, foreach: elems" style="display: none;"><!-- ko template: getTemplate() -->
+
+<div data-bind="css: $data.additionalClasses, html: content, visible: visible" class="admin__scope-old"><div class="fieldset-wrapper customer-information">
+    <div class="fieldset-wrapper-title">
+        <span class="title">Personal Information</span>
+    </div>
+    <table class="admin__table-secondary">
+        <tbody>
+                <tr>
+            <th>Last Logged In:</th>
+            <td>Aug 6, 2018, 6:45:42 AM (Offline)</td>
+        </tr>
+                <tr>
+            <th>Account Lock:</th>
+            <td>Unlocked</td>
+        </tr>
+        <tr>
+            <th>Confirmed email:</th>
+            <td>Confirmation Not Required</td>
+        </tr>
+        <tr>
+            <th>Account Created:</th>
+            <td>Aug 6, 2018, 6:45:40 AM</td>
+        </tr>
+                <tr>
+            <th>Account Created in:</th>
+            <td>Default Store View</td>
+        </tr>
+        <tr>
+            <th>Customer Group:</th>
+            <td>General</td>
+        </tr>
+        </tbody>
+    </table>
+    <address>
+        <strong>Default Billing Address</strong><br />
+        The customer does not have default billing address.    </address>
+
+</div>
+</div>
+
+<!-- ko if: showSpinner --><!-- /ko -->
+
+<!-- ko if: error --><!-- /ko -->
+<!-- /ko --></div>
+<!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated -->
+    <div data-bind="attr: {'data-area-active': active}, visible: active, foreach: elems" data-area-active="true"><!-- ko template: getTemplate() -->
+<div class="fieldset-wrapper" data-bind="visible: $data.visible === undefined ? true: $data.visible, css: $data.additionalClasses, attr: {'data-level': $data.level, 'data-index': index}" data-level="0" data-index="customer">
+    <!-- ko if: label --><div class="fieldset-wrapper-title" data-bind="attr: {tabindex: !collapsible ? -1 : 0,&#10;               'data-state-collapsible': collapsible ? opened() ? 'open' : 'closed' : null}, click: toggleOpened, keyboard: {13: toggleOpened}" tabindex="-1">
+
+        <strong data-bind="css: {'admin__collapsible-title': collapsible,&#10;                      title: !collapsible,&#10;                      '_changed': changed,&#10;                      '_loading': loading,&#10;                      '_error': error}" class="title">
+            <span data-bind="i18n: label">Account Information</span>
+            <!-- ko if: collapsible --><!-- /ko -->
+        </strong>
+    </div><!-- /ko -->
+
+    <div class="admin__fieldset-wrapper-content _hide" data-bind="css: {'admin__collapsible-content': collapsible, '_show': opened, '_hide': !opened()}">
+        <!-- ko if: opened() || _wasOpened || initializeFieldsetDataByDefault --><fieldset class="admin__fieldset" data-bind="foreach: {data: elems, as: 'element'}"><!-- ko template: getTemplate() -->
+<div class="admin__field _required _disabled" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="website_id">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="J0SOK1R">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Associate to Website</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control _with-tooltip" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<select class="admin__control-select" data-bind="&#10;    attr: {&#10;        name: inputName,&#10;        id: uid,&#10;        disabled: disabled,&#10;        'aria-describedby': noticeId&#10;    },&#10;    hasFocus: focused,&#10;    optgroup: options,&#10;    value: value,&#10;    optionsCaption: caption,&#10;    optionsValue: 'value',&#10;    optionsText: 'label'" name="customer[website_id]" id="J0SOK1R" disabled="true" aria-describedby="notice-J0SOK1R"><option data-title="Main Website" value="1">Main Website</option></select>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- ko template: tooltipTpl -->
+<div class="admin__field-tooltip">
+    <a class="admin__field-tooltip-action action-help" target="_blank" tabindex="1" data-bind="attr: {href: tooltip.link}" href="http://docs.magento.com/m2/ce/user_guide/configuration/scope.html"></a>
+    <div class="admin__field-tooltip-content" data-bind="text: tooltip.description">If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.</div>
+</div>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<fieldset class="admin__field _required" data-bind="css: {_required: required}, attr: {'data-index': index}, visible: visible" data-index="container_group">
+    <!-- ko if: showLabel --><legend class="admin__field-label">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Group</span>
+    </legend><!-- /ko -->
+
+    <div class="admin__field-control admin__control-fields required" data-bind="css: $data.additionalClasses">
+        <!-- ko foreach: elems -->
+            <!-- ko if: !$data.additionalForGroup --><!-- ko if: visible() -->
+                <!-- ko if: element.input_type != 'checkbox' || element.input_type != 'radio' --><!-- ko template: $parent.fieldTemplate -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="group_id">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="Q451W76">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Group</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<select class="admin__control-select" data-bind="&#10;    attr: {&#10;        name: inputName,&#10;        id: uid,&#10;        disabled: disabled,&#10;        'aria-describedby': noticeId&#10;    },&#10;    hasFocus: focused,&#10;    optgroup: options,&#10;    value: value,&#10;    optionsCaption: caption,&#10;    optionsValue: 'value',&#10;    optionsText: 'label'" name="customer[group_id]" id="Q451W76" aria-describedby="notice-Q451W76"><option data-title="General" value="1">General</option><option data-title="Wholesale" value="2">Wholesale</option><option data-title="Retailer" value="3">Retailer</option></select>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- /ko -->
+                <!-- ko if: element.input_type == 'checkbox' || element.input_type == 'radio' --><!-- /ko -->
+            <!-- /ko --><!-- /ko -->
+        
+            <!-- ko if: !$data.additionalForGroup --><!-- ko if: visible() -->
+                <!-- ko if: element.input_type != 'checkbox' || element.input_type != 'radio' --><!-- ko template: $parent.fieldTemplate -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="disable_auto_group_change">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="LBR2KDM">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Disable Automatic Group Change Based on VAT ID</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<div class="admin__field admin__field-option">
+    <input type="checkbox" class="admin__control-checkbox" data-bind="attr: {id: uid, name: inputName}, value: value, disable: disabled, hasFocus: focused, simpleChecked: checked" id="LBR2KDM" name="customer[disable_auto_group_change]" value="0" />
+
+    <label class="admin__field-label" data-bind="attr: {for: uid}, text: description" for="LBR2KDM">Disable Automatic Group Change Based on VAT ID</label>
+</div>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- /ko -->
+                <!-- ko if: element.input_type == 'checkbox' || element.input_type == 'radio' --><!-- /ko -->
+            <!-- /ko --><!-- /ko -->
+        <!-- /ko -->
+        
+        <!-- ko foreach: getRegion('insideGroup') --><!-- /ko -->
+
+        <!-- ko if: validateWholeGroup --><!-- ko foreach: elems -->
+            <!-- ko if: !$data.additionalForGroup -->
+                <!-- ko if: error() && visible() --><!-- /ko -->
+            <!-- /ko -->
+        
+            <!-- ko if: !$data.additionalForGroup -->
+                <!-- ko if: error() && visible() --><!-- /ko -->
+            <!-- /ko -->
+        <!-- /ko --><!-- /ko -->
+    </div>
+
+    <!-- ko foreach: getRegion('outsideGroup') --><!-- /ko -->
+</fieldset>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="prefix">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="DF6E5PV">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Name Prefix</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[prefix]" aria-describedby="notice-DF6E5PV" id="DF6E5PV" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="firstname">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="SJF485J">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">First Name</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[firstname]" aria-describedby="notice-SJF485J" id="SJF485J" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="middlename">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="LVOH45M">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Middle Name/Initial</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[middlename]" aria-describedby="notice-LVOH45M" id="LVOH45M" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="lastname">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="GB7RPXM">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Last Name</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[lastname]" aria-describedby="notice-GB7RPXM" id="GB7RPXM" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="suffix">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="FMGVAM0">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Name Suffix</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[suffix]" aria-describedby="notice-FMGVAM0" id="FMGVAM0" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="email">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="QREVS8R">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Email</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="email" data-bind="&#10;    hasFocus: focused,&#10;    value: value,&#10;    attr: {&#10;        name: inputName,&#10;        placeholder: placeholder,&#10;        'aria-describedby': noticeId,&#10;        id: uid,&#10;        disabled: disabled&#10;    }" name="customer[email]" aria-describedby="notice-QREVS8R" id="QREVS8R" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="dob">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="K1XI3KB">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Date of Birth</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text _has-datepicker" type="text" data-bind="&#10;    hasFocus: focused,&#10;    datepicker: { storage: shiftedValue, options: options },&#10;    valueUpdate: valueUpdate,&#10;    attr: {&#10;        value: shiftedValue,&#10;        name: inputName,&#10;        placeholder: placeholder,&#10;        'aria-describedby': noticeId,&#10;        disabled: disabled&#10;    }" id="dp1533900516452" value="" name="customer[dob]" aria-describedby="notice-K1XI3KB" /><button type="button" class="ui-datepicker-trigger v-middle"><span>Select Date</span></button>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="taxvat">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="H4DIULR">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Tax/VAT Number</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[taxvat]" aria-describedby="notice-H4DIULR" id="H4DIULR" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field _required" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="gender">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="RD98WDE">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Gender</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<select class="admin__control-select" data-bind="&#10;    attr: {&#10;        name: inputName,&#10;        id: uid,&#10;        disabled: disabled,&#10;        'aria-describedby': noticeId&#10;    },&#10;    hasFocus: focused,&#10;    optgroup: options,&#10;    value: value,&#10;    optionsCaption: caption,&#10;    optionsValue: 'value',&#10;    optionsText: 'label'" name="customer[gender]" id="RD98WDE" aria-describedby="notice-RD98WDE"><option value=""></option><option data-title="Male" value="1">Male</option><option data-title="Female" value="2">Female</option><option data-title="Not Specified" value="3">Not Specified</option></select>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="sendemail_store_id">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="W6VI92Q">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Send Welcome Email From</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<select class="admin__control-select" data-bind="&#10;    attr: {&#10;        name: inputName,&#10;        id: uid,&#10;        disabled: disabled,&#10;        'aria-describedby': noticeId&#10;    },&#10;    hasFocus: focused,&#10;    optgroup: options,&#10;    value: value,&#10;    optionsCaption: caption,&#10;    optionsValue: 'value',&#10;    optionsText: 'label'" name="customer[sendemail_store_id]" id="W6VI92Q" aria-describedby="notice-W6VI92Q"><optgroup label="Main Website"></optgroup><optgroup label="Main Website Store"></optgroup><option data-title="Main Website Store/Default Store View" value="1">      Default Store View</option></select>
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --><!-- ko template: getTemplate() -->
+<div class="admin__field" data-bind="css: $data.additionalClasses, attr: {'data-index': index}, visible: visible" data-index="vertex_customer_code">
+    <!-- ko if: $data.label --><label class="admin__field-label" data-bind="attr: {for: uid}, visible: $data.labelVisible" for="OGRPFHE">
+        <span data-bind="attr: {'data-config-scope': $data.scopeLabel}, i18n: label">Vertex Customer Code</span>
+    </label><!-- /ko -->
+    <div class="admin__field-control" data-bind="css: {'_with-tooltip': $data.tooltip, '_with-reset': $data.showFallbackReset &amp;&amp; $data.isDifferedFromDefault}">
+        <!-- ko ifnot: hasAddons() --><!-- ko template: elementTmpl -->
+<input class="admin__control-text" type="text" data-bind="&#10;        event: {change: userChanges},&#10;        value: value,&#10;        hasFocus: focused,&#10;        valueUpdate: valueUpdate,&#10;        attr: {&#10;            name: inputName,&#10;            placeholder: placeholder,&#10;            'aria-describedby': noticeId,&#10;            id: uid,&#10;            disabled: disabled,&#10;            maxlength: 255&#10;    }" name="customer[extension_attributes][vertex_customer_code]" aria-describedby="notice-OGRPFHE" id="OGRPFHE" maxlength="255" />
+<!-- /ko --><!-- /ko -->
+
+        <!-- ko if: hasAddons() --><!-- /ko -->
+
+        <!-- ko if: $data.tooltip --><!-- /ko -->
+
+        <!-- ko if: $data.showFallbackReset && $data.isDifferedFromDefault --><!-- /ko -->
+
+        <!-- ko if: error --><!-- /ko -->
+
+        <!-- ko if: $data.notice --><!-- /ko -->
+        
+        <!-- ko if: $data.additionalInfo --><!-- /ko -->
+
+        <!-- ko if: $data.hasService() --><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --></fieldset><!-- /ko -->
+    </div>
+</div>
+<!-- /ko --></div>
+<!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+
+    <!-- ko if: hasTemplate() --><!-- ko template: getTemplate() -->
+<!-- ko if: wasActivated --><!-- /ko -->
+<!-- /ko --><!-- /ko -->
+<!-- /ko -->
+<!-- /ko -->
+    </div>
+</div>
+</div></div><div id="page:left" class="side-col"><div data-bind="scope: 'customer_form.sections' " class="ui-tabs">
+    <!-- ko template: getTemplate() -->
+<div class="admin__page-nav">
+    <div class="admin__page-nav-title" data-bind="css: {_collapsible: collapsible, _opened: opened &amp;&amp; collapsible}, click: toggleOpened, keyboard: {13: toggleOpened}">
+        <strong tabindex="1" data-bind="text: label, keyboard: {13: toggleOpened}">Customer Information</strong>
+    </div>
+    <ul class="admin__page-nav-items items" data-bind="visible: opened, foreach: elems">
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_customer_edit_tab_view_content">
+                <span data-bind="text: label">Customer View</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item _active" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_customer">
+                <span data-bind="text: label">Account Information</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_address">
+                <span data-bind="text: label">Addresses</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_orders_content">
+                <span data-bind="text: label">Orders</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_customer_edit_tab_agreements_content">
+                <span data-bind="text: label">Billing Agreements</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_newsletter_content">
+                <span data-bind="text: label">Newsletter</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_reviews_content">
+                <span data-bind="text: label">Product Reviews</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    
+        <li class="admin__page-nav-item" tabindex="2" data-bind="css: {_active: active, _loading: loading}, click: activate, keyboard: {13: activate}">
+            <a class="admin__page-nav-link" href="#" data-bind="css: {_changed: changed}, attr: {id: 'tab_' + index}" id="tab_wishlist_content">
+                <span data-bind="text: label">Wish List</span>
+                <span class="admin__page-nav-item-messages">
+                    <span class="admin__page-nav-item-message _changed">
+                        <span class="admin__page-nav-item-message-icon"></span>
+                        <span class="admin__page-nav-item-message-tooltip" data-bind="i18n: 'Changes have been made to this section that have not been saved.'">Changes have been made to this section that have not been saved.</span>
+                    </span>
+                    <span class="admin__page-nav-item-message-loader">
+                        <span class="spinner">
+                           <!-- ko repeat: 8 --><span data-repeat-index="0"></span><span data-repeat-index="1"></span><span data-repeat-index="2"></span><span data-repeat-index="3"></span><span data-repeat-index="4"></span><span data-repeat-index="5"></span><span data-repeat-index="6"></span><span data-repeat-index="7"></span><!-- /ko -->
+                        </span>
+                   </span>
+                </span>
+            </a>
+        </li>
+    </ul>
+</div>
+<!-- /ko -->
+</div>
+</div></div></main><footer class="page-footer"><div class="page-footer-content row"><div class="footer-legal"><p class="copyright col-m-6"><a class="link-copyright" href="http://magento.com" target="_blank" title="Magento"></a>
+Copyright © 2018 Magento Commerce Inc. All rights reserved.</p><div class="footer-legal-system col-m-6"><p class="magento-version">
+    <strong>Magento</strong>
+    ver. 2.2.4</p>
+<a class="link-account-activity" href="http://qa-magento2.evozon.com/index.php/admin/security/session/activity/key/91bb205f4f6f97a9965d40c41a34c06f1d3991826a07d990aa83f01a5b3c5e8d/" id="footer_account_activity" target="_blank">
+    Account Activity</a> |
+    <a class="link-report" href="https://github.com/magento/magento2/issues" id="footer_bug_tracking">Report an Issue</a>
+</div></div></div></footer></div>    
+
+<div class="admin__menu-overlay" style="display: none;"></div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" data-handler="prev" data-event="click" title="Previous"><span class="ui-icon ui-icon-circle-triangle-w">Previous</span></a><a class="ui-datepicker-next ui-corner-all" data-handler="next" data-event="click" title="Next"><span class="ui-icon ui-icon-circle-triangle-e">Next</span></a><div class="ui-datepicker-title"><select class="ui-datepicker-month" data-handler="selectMonth" data-event="change"><option value="0">Jan</option><option value="1">Feb</option><option value="2">Mar</option><option value="3">Apr</option><option value="4">May</option><option value="5">Jun</option><option value="6">Jul</option><option value="7" selected="selected">Aug</option><option value="8">Sep</option><option value="9">Oct</option><option value="10">Nov</option><option value="11">Dec</option></select><select class="ui-datepicker-year" data-handler="selectYear" data-event="change"><option value="1918">1918</option><option value="1919">1919</option><option value="1920">1920</option><option value="1921">1921</option><option value="1922">1922</option><option value="1923">1923</option><option value="1924">1924</option><option value="1925">1925</option><option value="1926">1926</option><option value="1927">1927</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1933">1933</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018" selected="selected">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026">2026</option><option value="2027">2027</option><option value="2028">2028</option><option value="2029">2029</option><option value="2030">2030</option><option value="2031">2031</option><option value="2032">2032</option><option value="2033">2033</option><option value="2034">2034</option><option value="2035">2035</option><option value="2036">2036</option><option value="2037">2037</option><option value="2038">2038</option><option value="2039">2039</option><option value="2040">2040</option><option value="2041">2041</option><option value="2042">2042</option><option value="2043">2043</option><option value="2044">2044</option><option value="2045">2045</option><option value="2046">2046</option><option value="2047">2047</option><option value="2048">2048</option><option value="2049">2049</option><option value="2050">2050</option><option value="2051">2051</option><option value="2052">2052</option><option value="2053">2053</option><option value="2054">2054</option><option value="2055">2055</option><option value="2056">2056</option><option value="2057">2057</option><option value="2058">2058</option><option value="2059">2059</option><option value="2060">2060</option><option value="2061">2061</option><option value="2062">2062</option><option value="2063">2063</option><option value="2064">2064</option><option value="2065">2065</option><option value="2066">2066</option><option value="2067">2067</option><option value="2068">2068</option><option value="2069">2069</option><option value="2070">2070</option><option value="2071">2071</option><option value="2072">2072</option><option value="2073">2073</option><option value="2074">2074</option><option value="2075">2075</option><option value="2076">2076</option><option value="2077">2077</option><option value="2078">2078</option><option value="2079">2079</option><option value="2080">2080</option><option value="2081">2081</option><option value="2082">2082</option><option value="2083">2083</option><option value="2084">2084</option><option value="2085">2085</option><option value="2086">2086</option><option value="2087">2087</option><option value="2088">2088</option><option value="2089">2089</option><option value="2090">2090</option><option value="2091">2091</option><option value="2092">2092</option><option value="2093">2093</option><option value="2094">2094</option><option value="2095">2095</option><option value="2096">2096</option><option value="2097">2097</option><option value="2098">2098</option><option value="2099">2099</option><option value="2100">2100</option><option value="2101">2101</option><option value="2102">2102</option><option value="2103">2103</option><option value="2104">2104</option><option value="2105">2105</option><option value="2106">2106</option><option value="2107">2107</option><option value="2108">2108</option><option value="2109">2109</option><option value="2110">2110</option><option value="2111">2111</option><option value="2112">2112</option><option value="2113">2113</option><option value="2114">2114</option><option value="2115">2115</option><option value="2116">2116</option><option value="2117">2117</option><option value="2118">2118</option></select></div></div><table class="ui-datepicker-calendar"><thead><tr><th class="ui-datepicker-week-end"><span title="Sunday">Sun</span></th><th><span title="Monday">Mon</span></th><th><span title="Tuesday">Tue</span></th><th><span title="Wednesday">Wed</span></th><th><span title="Thursday">Thu</span></th><th><span title="Friday">Fri</span></th><th class="ui-datepicker-week-end"><span title="Saturday">Sat</span></th></tr></thead><tbody><tr><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">29</span></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">30</span></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">31</span></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">1</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">2</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">3</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">4</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">5</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">6</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">7</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">8</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">9</a></td><td class=" ui-datepicker-days-cell-over  ui-datepicker-current-day ui-datepicker-today" data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default ui-state-highlight ui-state-active ui-state-hover" href="#">10</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">11</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">12</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">13</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">14</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">15</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">16</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">17</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">18</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">19</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">20</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">21</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">22</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">23</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">24</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">25</a></td></tr><tr><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">26</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">27</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">28</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">29</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">30</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="7" data-year="2018"><a class="ui-state-default" href="#">31</a></td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled "><span class="ui-state-default">1</span></td></tr></tbody></table><div class="ui-datepicker-buttonpane ui-widget-content"><button type="button" class="ui-datepicker-current ui-state-default ui-priority-secondary ui-corner-all" data-handler="today" data-event="click">Go Today</button><button type="button" class="ui-datepicker-close ui-state-default ui-priority-primary ui-corner-all" data-handler="hide" data-event="click">Close</button></div></div></body></html>

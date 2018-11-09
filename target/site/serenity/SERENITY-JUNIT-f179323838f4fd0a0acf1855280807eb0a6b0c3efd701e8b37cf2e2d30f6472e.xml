@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.tests.BookItemsFromSameCategoryTest" skipped="0" tests="1" time="7.73" timestamp="2018-08-221 12:01:50"><testcase classname="com.tests.BookItemsFromSameCategoryTest" name="Book items from same category test"><error message="Timed out after 2 seconds. Element not found&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'&#10;System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'EVO582', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.10.0-38-generic', java.version: '1.8.0_171'
+Driver info: driver.version: unknown
+com.pages.HomePage.clickLogin(HomePage.java:12)
+com.steps.frontend.HomePageSteps.clickLogin(HomePageSteps.java:16)
+com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:16)
+com.tests.BookItemsFromSameCategoryTest.bookItemsFromSameCategoryTest(BookItemsFromSameCategoryTest.java:48)
+</system-err></testcase></testsuite>

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.BookReturnedItemTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.689 sec <<< FAILURE! - in com.tests.BookReturnedItemTest
+bookReturnedItemTest(com.tests.BookReturnedItemTest)  Time elapsed: 1.191 sec  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at com.tests.BookReturnedItemTest.setUp(BookReturnedItemTest.java:37)
+

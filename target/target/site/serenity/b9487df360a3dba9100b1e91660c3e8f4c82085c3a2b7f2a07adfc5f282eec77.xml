@@ -1,0 +1,35 @@
+<acceptance-test-run title="Book item already booked test" name="bookItemAlreadyBookedTest" steps="8" successful="0" failures="0" errors="1" skipped="7" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="1477" timestamp="2018-08-09T13:51:54.583+03:00">
+  <user-story id="com.tests.BookItemAlreadyBookedTest" name="Book item already booked test" path="com.tests"/>
+  <tags>
+    <tag name="Book item already booked test" type="story"/>
+  </tags>
+  <test-group name="Create item" result="ERROR">
+    <test-step result="ERROR" duration="1380">
+      <description>Login as admin</description>
+      <error>java.net.ConnectException: Connection refused (Connection refused)</error>
+      <exception>java.net.ConnectException:Connection refused (Connection refused)
+[org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:117), org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177), org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304), org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611), org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446), org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863), org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82), org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57), groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1210), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1019), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:810), groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:325), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1210), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1019), groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:810), com.steps.api.AbstractApiSteps.createResource(AbstractApiSteps.java:41), com.steps.api.ApiLoginSteps.loginAsAdmin(ApiLoginSteps.java:20), com.steps.api.flow_steps.ApiCreateItemFlowSteps.createItem(ApiCreateItemFlowSteps.java:19), com.tests.BookItemAlreadyBookedTest.setUp(BookItemAlreadyBookedTest.java:38)]</exception>
+    </test-step>
+    <test-step result="SKIPPED" duration="1">
+      <description>Create category</description>
+    </test-step>
+    <test-step result="SKIPPED" duration="0">
+      <description>Create item</description>
+    </test-step>
+  </test-group>
+  <test-step result="SKIPPED" duration="0">
+    <description>Book all items</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Login</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Book all items from category</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Go to my bookings</description>
+  </test-step>
+  <test-step result="SKIPPED" duration="1">
+    <description>Validate booked items</description>
+  </test-step>
+</acceptance-test-run>

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.BookItemTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.873 sec <<< FAILURE! - in com.tests.BookItemTest
+bookItemTest(com.tests.BookItemTest)  Time elapsed: 8.856 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.tests.BookItemTest.bookItemTest(BookItemTest.java:41)
+

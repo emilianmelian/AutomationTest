@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.BookItemsFromSameCategoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.022 sec <<< FAILURE!
+bookItemsFromSameCategoryTest(com.tests.BookItemsFromSameCategoryTest)  Time elapsed: 6.693 sec  <<< ERROR!
+java.lang.NullPointerException
+	at com.steps.frontend.LoginSteps.login(LoginSteps.java:20)
+	at com.steps.frontend.flow_steps.LoginFlowSteps.login(LoginFlowSteps.java:17)
+	at com.tests.BookItemsFromSameCategoryTest.bookItemsFromSameCategoryTest(BookItemsFromSameCategoryTest.java:48)
+

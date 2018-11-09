@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.tests.BookItemsFromDifferentCategoriesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.776 sec <<< FAILURE! - in com.tests.BookItemsFromDifferentCategoriesTest
+bookItemsFromDifferentCategoriesTest(com.tests.BookItemsFromDifferentCategoriesTest)  Time elapsed: 0.53 sec  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at com.tests.BookItemsFromDifferentCategoriesTest.setUp(BookItemsFromDifferentCategoriesTest.java:39)
+

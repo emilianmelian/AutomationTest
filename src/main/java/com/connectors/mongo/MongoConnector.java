@@ -21,7 +21,7 @@ public class MongoConnector {
 	protected static MongoClient mongoClient;
 	protected static DB workingDB;
 	private List<ServerAddress> serverList = new ArrayList<ServerAddress>();
-	private static String x;
+
 	public MongoConnector() throws UnknownHostException {
 		serverList = grabServerList();
 		if (mongoClient == null) {
@@ -39,7 +39,9 @@ public class MongoConnector {
 		for (String hostNow : hostList) {
 			serverAddresses.add(new ServerAddress(hostNow));
 		}
+		System.out.println("este test");
 		return serverAddresses;
+	
 	}
 
 	public boolean verifyDatabaseExists(String dataBase) {
